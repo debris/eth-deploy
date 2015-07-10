@@ -43,4 +43,8 @@ embark deploy         # deploy app/contracts/**/*.sol
 embark blockchain
 ```
 
+### TODO
+
+- update to `embark 0.5.0` once it's release. It will improve deployment process (speed and using `config/contracts.yml`)
+
 
