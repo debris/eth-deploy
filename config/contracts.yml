@@ -1,0 +1,4 @@
+# as of embark develop 0.5.0RC, this is not used
+development:
+  GlobalRegistrar:
+    args:
