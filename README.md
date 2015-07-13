@@ -10,7 +10,7 @@ Before using `eth-deploy` you need to install the following tools and you need t
 - [npm](https://www.npmjs.com/)
 - [solc](https://github.com/ethereum/cpp-ethereum) *0.1.0, available as a part of cpp-ethereum --devel*
 - [go-etheruem](https://github.com/ethereum/go-ethereum) *0.9.38*
-- [embark](https://github.com/iurimatias/embark-framework) *latest develop version 0.5.0RC*
+- [embark](https://github.com/iurimatias/embark-framework) *0.5.0*
 
 ### usage
 
@@ -42,9 +42,3 @@ embark deploy         # deploy app/contracts/**/*.sol
 # just simply run
 embark blockchain
 ```
-
-### TODO
-
-- update to `embark 0.5.0` once it's release. It will improve deployment process (speed and using `config/contracts.yml`)
-
-
